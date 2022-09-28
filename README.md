@@ -1,3 +1,6 @@
-# Frontend Mentor - REST Countries API with color theme switcher solution
+# Проект в рамках изучения Redux 
 
-This is a solution to the [REST Countries API with color theme switcher challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca).
+### SPA с выводом стран полученных с API в UI, организована фильтрация стран по поиску и региону, отображение данных в детальной странице страны
+
+### [Ссылка](https://country-flags-redux.vercel.app/)
+
